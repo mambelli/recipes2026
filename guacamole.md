@@ -1,14 +1,15 @@
 # Guacamole
 
 ## Ingredients
-
 - avocado
-- onions
+- onion
+- tomato
+- garlic
+- lime juice
+- salt and pepper to taste
 - tomato
 - garlic
 - cilantro
-- salt
-- pepper
 - lemon
 
 
